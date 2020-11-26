@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "asd"
+  description: "we"
+  annotations:
+    github.com/project-slug: "kvicrey-ls/doc-test"
+    backstage.io/techdocs-ref: github:https://github.com/kvicrey-ls/doc-test
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Kevin"

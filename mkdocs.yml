@@ -1,0 +1,8 @@
+site_name: "asd"
+site_description: "we"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
